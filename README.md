@@ -5,6 +5,11 @@
 - EssentialMode 2.X (SQL Version)
 - Optional : es_freeroam (For notification)
 
+**My vision of things**
+
+This resource lets you open a door. You have to adapt it, or improve it as you see fit. The fact that I that it is not "more" complete is wanted. Many people already have their systems installed. In spite of this this resource will be adapted for the others that I would put online.
+
+
 **How to install**
 
 - Download resources on github
