@@ -1,13 +1,11 @@
 # [LVOS] id-card
 
  **Required**
---------------
 
 - EssentialMode 2.X (SQL Version)
 - Optional : es_freeroam (For notification)
 
 **How to install**
---------------
 
 - Download resources on github
 - Add it to the resources folder
