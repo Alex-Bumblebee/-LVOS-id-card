@@ -4,6 +4,7 @@
 
 - EssentialMode 2.X (SQL Version)
 - Optional : es_freeroam (For notification)
+- Optional : [Job System](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck) 
 
 **My vision of things**
 
