@@ -13,3 +13,11 @@
 - Adapt the script to your resources (Request(s), Notification(s))
 - Watch the events and use as you see fit
 - Its goooooooood
+
+**ID Card features**
+
+- Allows display of ID cards
+- Event for transmitting data
+- Displaying a GUI for ID cards
+
+![GUI ID Card](https://i.imgur.com/VOEwBju.png)
