@@ -1,0 +1,8 @@
+RegisterNetEvent("es_freeroam:notifysimple")
+AddEventHandler("es_freeroam:notifysimple", function(text)
+  Citizen.CreateThread(function()
+    SetNotificationTextEntry("STRING");
+    AddTextComponentString(text);
+    DrawNotification(false, true);
+  end)
+end)
