@@ -3,6 +3,7 @@
  **Required**
 
 - EssentialMode 2.X (SQL Version)
+- [MYSQL Async](https://github.com/brouznouf/fivem-mysql-async)
 - Optional : es_freeroam (For notification)
 - Optional : [Job System](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck) 
 
